@@ -47,7 +47,7 @@ Here are some screenshots of the Guilty Gear Gamepedia application:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://chat.openai.com/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ballpanuwat25/guiltygear_application/blob/main/license) file for details.
 
 ## Credits
 
